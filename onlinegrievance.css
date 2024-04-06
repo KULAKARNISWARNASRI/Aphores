@@ -1,0 +1,38 @@
+.formbox{
+	border: solid 5px;
+	width: 500px;
+	padding-left: 20px;
+	padding-top: 20px;
+	 background: navy;
+	 margin-left: 380px;
+	 borde 
+}
+label{
+	font size: 22px;
+	color: white
+}
+input{
+	background: navy;
+	border: none;
+	outline:none;
+	font-size: 20px;
+	border-bottom: solid;
+	border-width: 1px;
+	border color: white;  
+}
+#textbook{
+	width: 230px;
+}
+button{
+	height: 50px;
+	width: 150px;
+	background-color: red;
+	border-radius: 50px;
+	font-size: 23px;
+
+}
+body{
+	background-image: linear gradient{white,grey}
+
+}
+
